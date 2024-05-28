@@ -1,0 +1,19 @@
+
+Ž	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ïùõ„ü1J$cbd1ed13-cfa8-4dc6-9dad-5a35c40e06af
+Ž	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ïùõ„ü1J$8fd68752-e3d1-46b3-8480-ec0b6f13b0e4
+˜	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€®±Ïùÿÿÿÿ8ðùõ„ü1J$b7689ffe-d565-4278-a48b-fbd5f9d6240e
+™	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ÿ«éûÿÿÿÿ8ðùõ„ü1J$0d79b104-0daf-4eeb-8231-bb0040ece3d4
+”	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¥íÑ8ðùõ„ü1J$913006f4-7b88-47db-a5df-f715d2b9b613
+z
+java:S2629E"7Use the built-in formatting to construct this argument.(·€Óü8£Ìœ…ü1J$940f0996-6936-452d-9b95-ea95c1fc62cb
+j
+java:S2189J""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ƒúõ„ü1J$e4c2eda0-8e49-40c0-8d76-8c68d43455b9
+n
+java:S1075<"&Remove this hard-coded path-delimiter.(±¦ÈÙûÿÿÿÿ8·Ìœ…ü1J$3567b098-f9bf-471b-8215-e678603003fc
+n
+java:S1075>"&Remove this hard-coded path-delimiter.(†éÇªýÿÿÿÿ8·Ìœ…ü1J$6d2120c3-9185-4f4a-bd04-e12cd1bcd9ba
+i	java:S131t""Add a default case to this switch.(Æé·òøÿÿÿÿ8’úõ„ü1J$6684a5a3-8469-4ca5-8786-2214d688e238
+‰
+java:S2147š"ECombine this catch with the one at line 152, which has the same body.(ä ¹€8”úõ„ü1J$e8a78e47-c2ca-4eaf-a9c5-f0803aa303e0
+¢
+java:S2142š"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8•úõ„ü1J$eeb05ec8-a85c-4c4d-bb5b-2dbdc210e7ef
