@@ -1,18 +1,11 @@
 
 n
-java:S1450"QRemove the "in" field and declare it as a local variable in the relevant methods.(»ð¶ü8÷ÚÈ„ü1
+java:S1450"QRemove the "in" field and declare it as a local variable in the relevant methods.(»ð¶ü8°ÀÁ…ü1
 w
-java:S1450"URemove the "socket" field and declare it as a local variable in the relevant methods.(Å’¬Úþÿÿÿÿ8øÚÈ„ü1
-g
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ê´ç©üÿÿÿÿ8ýÚÈ„ü1
-X	java:S1250"<This block of commented-out lines of code should be removed.(×Ð˜­8„ÛÈ„ü1
+java:S1450"URemove the "socket" field and declare it as a local variable in the relevant methods.(Å’¬Úþÿÿÿÿ8±ÀÁ…ü1
+—
+java:S6204E"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ã¤£’8¼ÀÁ…ü1
 f
-java:S3252V"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8ÛÈ„ü1
-_
-java:S1117"BRename "selectedFormat" which hides the field declared at line 27.(ÇêæÆ8˜ÛÈ„ü1
+java:S3252P"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8¾ÀÁ…ü1
 |
-java:S2142Ä"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(òž¶È8¤ÛÈ„ü1
-X
-java:S1128";Remove this unused import 'org.example.Constants.FINISHED'.(¬ÜÎ¹8¦ÛÈ„ü1
-O
-java:S1068"2Remove this unused "selectedFormat" private field.(¦Ø¿Œ8§ÛÈ„ü1
+java:S2142·"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(òž¶È8ÇÀÁ…ü1

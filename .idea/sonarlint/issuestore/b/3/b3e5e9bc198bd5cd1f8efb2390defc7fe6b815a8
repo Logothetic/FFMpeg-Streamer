@@ -1,0 +1,15 @@
+
+”
+java:S1450"QRemove the "in" field and declare it as a local variable in the relevant methods.(»ğ¶ü8˜Ú³¬ü1J$752975ad-8bcd-4c23-83e5-3d1ca6114248
+
+java:S1450"URemove the "socket" field and declare it as a local variable in the relevant methods.(Å’¬Úşÿÿÿÿ8˜Ú³¬ü1J$4af68254-b1a7-45e9-9ef5-36f02fb3206d
+¦
+java:S1450"^Remove the "streamingThread" field and declare it as a local variable in the relevant methods.(¶İô¶ÿÿÿÿÿ8ÊšÔ×ü1J$d7055c4d-8bad-466b-b48b-6fe3bb394462
+½
+java:S6204L"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ã¤£’8¢Ú³¬ü1J$1bac19be-7c67-4036-ad8f-dcc3d3b18d38
+Œ
+java:S3252V"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8¥Ú³¬ü1J$80d32354-6535-41b0-86ac-bd882bfda477
+c
+java:S1128"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8›…Û×ü1
+]
+java:S1128	";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8›…Û×ü1
