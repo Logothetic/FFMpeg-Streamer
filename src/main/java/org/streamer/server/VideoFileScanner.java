@@ -50,7 +50,7 @@ class VideoFileScanner {
     for (String format : Constants.FORMATS) {
       for (int resolution : Constants.RESOLUTIONS) {
         // Check if the file needs conversion based on resolution and format
-        if (resolution <= videoFile.getResolution() && !format.equals(videoFile.getFormat())) {
+        if ((resolution <= videoFile.getResolution()) && !(videoFile.getFormat().equals(format) && videoFile.getResolution() == resolution)) {
           convertFile(videoFile, resolution, format);
         }
       }

@@ -5,8 +5,7 @@ import fr.bmartel.speedtest.SpeedTestSocket;
 import fr.bmartel.speedtest.model.SpeedTestError;
 import fr.bmartel.speedtest.inter.ISpeedTestListener;
 
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
+
 import javax.swing.*;
 import java.io.*;
 import java.net.Socket;
@@ -19,7 +18,7 @@ import org.streamer.util.Constants;
 public class StreamingClient {
 
   private static final Logger log = Logger.getLogger(StreamingClient.class.getName());
-  private static final String SPEED_TEST_SERVER_URI_DL = "http://ipv4.ikoula.testdebit.info/10M.iso";
+  private static final String SPEED_TEST_SERVER_URI_DL = "ftp://speedtest:speedtest@ftp.otenet.gr/test1Mb.db";
 
   private Socket socket;
   private BufferedReader in;
