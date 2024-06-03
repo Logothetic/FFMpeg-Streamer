@@ -1,9 +1,0 @@
-
-”
-java:S1450"QRemove the "in" field and declare it as a local variable in the relevant methods.(»ğ¶ü8°ÀÁ…ü1J$aa2435df-72a4-4b62-8d17-151be80d0509
-
-java:S1450"URemove the "socket" field and declare it as a local variable in the relevant methods.(Å’¬Úşÿÿÿÿ8±ÀÁ…ü1J$f1d78890-f18e-456b-be7f-cce95c238185
-Œ
-java:S3252Q"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8¾ÀÁ…ü1J$51f18391-6941-49ec-bc84-f1b4d52d7b2c
-¢
-java:S2142¸"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ò¶È8ÇÀÁ…ü1J$2069ec79-ced1-470b-b364-cf096692c6c7

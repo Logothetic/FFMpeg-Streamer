@@ -24,7 +24,6 @@ public class ClientHandler extends Thread {
   public void run() {
     try (BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
         PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true)) {
-
       // Handle client's request for available files
       String clientRequest = in.readLine();
       if (Constants.GET_FILES.equals(clientRequest)) {
@@ -35,11 +34,13 @@ public class ClientHandler extends Thread {
         LOGGER.info("Sent available files list to client");
       }
 
-      // Handle client's streaming request
-      String request = in.readLine();
-      if (request != null) {
-        LOGGER.info("Received streaming request: " + request);
-        streamFileToClient(request);
+      while(true){
+        // Handle client's streaming request
+        String request = in.readLine();
+        if (request != null) {
+          LOGGER.info("Received streaming request: " + request);
+          streamFileToClient(request);
+        }
       }
 
     } catch (IOException e) {

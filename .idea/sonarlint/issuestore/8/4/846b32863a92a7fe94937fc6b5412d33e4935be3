@@ -1,10 +1,0 @@
-
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€®±Ïùÿÿÿÿ8¥‹Ş´û1J$c8af8496-7384-4052-8fbc-cfe77ec2e7d4
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ÿ«éûÿÿÿÿ8åÄ®û1J$95cc503d-180e-42ff-b0c1-5d49967ea12d
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖØŞÒûÿÿÿÿ8åÄ®û1J$15b9a8d4-845f-40b1-a6e0-a00eac7b19c0
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( Æƒ‚8æÄ®û1J$de456186-f932-4556-bf3c-15699c2558cf
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ãÅæıÿÿÿÿ8­‹Ş´û1J$604b79f9-1d07-4daf-b786-80f6a450f8b8
-z
-java:S1128"2Remove this unused import 'java.net.ServerSocket'.(ĞúÙÿÿÿÿÿ8¯‹Ş´û1J$db61e9ed-c8b1-4216-9342-70312fdeaabc
-o
-java:S1128",Remove this unused import 'java.net.Socket'.(­‡àú8¯‹Ş´û1J$49d8722a-0922-4357-9ee7-dec5b7de91fd
